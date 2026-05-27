@@ -91,29 +91,10 @@ Sou profissional em constante evolução na área de tecnologia, com conheciment
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardonascimentoprofaz-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonascimentoprofaz-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardonascimentoprofaz-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardonascimentoprofaz-dev&theme=tokyonight&layout=compact&langs_count=9"/>
 
----
+</div>
